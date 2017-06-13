@@ -1,0 +1,20 @@
+PODS:
+  - CryptoSwift (0.6.7)
+  - KissXML/Core (5.1.2)
+  - KissXML/SwiftNSXML (5.1.2):
+    - KissXML/Core
+  - SwiftyRSA (1.0.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - KissXML/SwiftNSXML
+  - SwiftyRSA
+
+SPEC CHECKSUMS:
+  CryptoSwift: 685ae257941e5447474348a2b545583e1a16b573
+  KissXML: 246c842586bb77110e04fb88e19376d96245c856
+  SwiftyRSA: 3ec69b6a1bd2edf2b8fcb2fcdfd63e00b971e5eb
+
+PODFILE CHECKSUM: e42b72f56c267d3960b766fe64156cfcc94dcf9b
+
+COCOAPODS: 1.2.0

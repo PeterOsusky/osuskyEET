@@ -1,0 +1,10 @@
+framework module XUCore {
+  umbrella header "XUCore.h"
+
+  export *
+  module * { export * }
+}
+
+module XUCore.Swift {
+    header "XUCore-Swift.h"
+}
